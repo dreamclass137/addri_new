@@ -1,0 +1,1521 @@
+@media(max-width: 1750px){
+    .owl-carousel .owl-nav button.owl-prev {
+        left: -15px;
+    }
+    .owl-carousel .owl-nav button.owl-next {
+        right: -15px;
+    }
+    .prod-slider,
+    .prod-slider2 {
+        padding: 0 35px;
+    }
+    .title h1 {
+        font-size: 80px;
+        line-height: 80px;
+    }
+}
+
+@media (max-width: 1440px){
+    html {
+        font-size: 14px;
+    }
+    .header-right-navigation ul li:not(:last-child) {
+        padding-right: 10px;
+    }
+    .header-right-navigation ul li a {
+        padding: 5px 8px;
+    }
+    .hero-lt-content h1 {
+        line-height: 2.75rem;
+        font-size: 2rem;
+    }
+    .hero-lt-inner {
+        max-width: 450px;
+    }
+    #top-collection-seller #pills-tab li button {
+        font-size: 24px;
+    }
+    .prod-title {
+        font-size: 1.15rem;
+    }
+    .prod-featured {
+        height: 260px;
+    }
+    .product-result-block {
+        padding: 30px 15px 30px 50px;
+    }
+    .result-item {
+        margin-bottom: 50px;
+    }
+    .header-right-navigation .navbar-nav .nav-item a.nav-link {
+        padding: 10px 25px;
+    }
+    .blog-grid-item {
+        padding: 30px 40px;
+    }
+    .footer-logo .logo-text {
+        font-size: 100px;
+        line-height: 110px;
+    }
+    .footer-inner-column ul li a,
+    .footer-widget-title,
+    .footer-subscribe .label {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .footer-inner-column ul li .sub-menu li a,
+    .location .detail {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .footer-rt-column {
+        margin-top: 98px;
+    }
+    .prod-slider2 .item {
+        padding: 20px 10px;
+    }
+    .btn-addtocart {
+        width: 65px;
+        height: 65px;
+    }
+    .card-style1 .title h3,
+    .card-blurb-content .title h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .content {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .btn-style2 {
+        font-size: 18px;
+        line-height: 28px;
+        min-width: 200px;
+    }
+    .btn-large {
+        font-size: 26px !important;
+        line-height: 38px !important;
+    }
+    .service-grid > .row {
+        margin-left: -30px;
+        margin-right: -30px;
+    }
+    .service-grid .row .card-grid-item {
+        padding: 40px 30px;
+    }
+    .item-slide h1 {
+        font-size: 80px;
+        line-height: 100px;
+    }
+    .big-title h2 {
+        font-size: 98px;
+        line-height: 135px;
+    }
+    .testimonial-content {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .multi-slider .testimonial-card {
+        padding: 30px 15px;
+    }
+    .testimonial-title h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .blog-topic-article ul li {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .blog-topic-article .blog-author,
+    .blog-topic-article .blog-excerpt,
+    .blog-link a {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .blog-heading {
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .hint-item {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .suggestion-links ul li {
+        padding: 5px 2px;
+    }
+    .trending-article-card {
+        padding: 15px 15px;
+    }
+    .blog-full-content .blog-time-category,
+    .blog-full-content .date,
+    .post-label {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .blog-full-content .blog-excerpt,
+    .blog-full-content .blog-by {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .blog-full-content .blog-title h3 {
+        font-size: 36px;
+    }
+    .blog-full .btn-style2 {
+        font-size: 22px;
+        line-height: 26px;
+        padding: 18px;
+    }
+    .shop-grid .row {
+        margin-left: -25px;
+        margin-right: -25px;
+    }
+    .shop-grid-item {
+        padding: 25px 25px;
+    }
+    .nav-tabs-style li button {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .type {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .product-title,
+    .page-title {
+        font-size: 80px;
+        line-height: 85px;
+    }
+    .product-item-img{
+        padding: 25px 20px 25px 70px;
+    }
+    .product-item-content {
+        padding: 25px 50px 25px 20px;
+    }
+    .content-details .content {
+        font-size: 18px;
+    }
+    .content-big {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .content-left-block h1 {
+        font-size: 34px;
+        line-height: 52px;
+    }
+    .content-left-block p {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .content-left-block .content-inner {
+        max-width: 485px;
+    }
+    .content-left-block h1{
+        max-width: 300px;
+    }
+    .login-signup {
+        max-width: 650px;
+    }
+    .social-btn .text {
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+
+@media (max-width: 1366px){
+    .blog-grid-item {
+        padding: 30px 30px;
+    }
+    .card-left-img {
+        padding: 15px;
+    }
+    .card-outer {
+        padding: 15px;
+    }
+    .big-title h2 {
+        font-size: 85px;
+        line-height: 120px;
+    }
+    .product-title,
+    .page-title {
+        font-size: 70px;
+        line-height: 75px;
+    }
+    .title h1 {
+        font-size: 70px;
+        line-height: 70px;
+    }
+    .member-detail h3 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .member-detail .address {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .member-detail .content {
+        font-size: 18px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width:  1199px){
+    .card-item {
+        width: 49%;
+        margin: 1% 0;
+    }
+    .footer-socials li {
+        display: inline-block;
+        padding: 0px 5px 5px 5px !important;
+    }
+    .footer-socials li a {
+        width: 35px;
+        height: 35px;
+    }
+    .footer-inner-column ul li a img {
+        max-width: 20px;
+        max-height: 20px;
+    }
+    .explore-categories ul li {
+        padding: 3px 4px;
+    }
+    .explore-categories ul li a {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 3px 2px;
+    }
+    .category-sub-menu ul li a {
+        padding: 10px 15px;
+        min-width: 100px;
+    }
+    .product-result-block {
+        padding: 30px 15px 30px 30px;
+    }
+    .result-item {
+        margin-bottom: 30px;
+    }
+    .profile-desc h4,
+    .owner-item-inner-details .items {
+        font-size: 18px;
+    }
+    .owner-item-inner-details .items {
+        padding: 5px 10px;
+    }
+    .popup-l-img h1 {
+        font-size: 32px;
+    }
+    .popup-l-img h2 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .login-signup-btns .btn {
+        font-size: 16px;
+        min-width: 80px;
+    }
+    .login-signup-popup .modal-dialog .modal-body {
+        max-width: 800px;
+    }
+    .popup-r-content {
+        padding: 20px 35px 45px 35px;
+    }
+    .popup-l-img {
+        padding: 35px 35px;
+    }
+    .another-login-option {
+        font-size: 15px;
+    }
+    .category-title{
+        font-size: 18px;
+    }
+    #nfts .container{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .nft-card-outer {
+        padding: 10px;
+    }
+    #trending-collection {
+        padding: 80px 30px 50px 30px;
+    }
+    .section-space {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .dashboard-right-top-menu ul li a {
+        padding: 5px 15px;
+        font-size: 13px;
+    }
+    .sidebar-menu ul li a {
+        padding: 12px 15px 12px 10px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .sidebar-menu ul li a span {
+        width: 25px;
+    }
+    .sidebar-menu ul li a span svg {
+        width: 20px;
+        height: 20px;
+    }
+    .user-profile-picture {
+        width: 100px;
+        height: 100px;
+    }
+    .user-profile-info {
+        padding: 20px 10px 10px 10px;
+    }
+    .user-name-role h5 {
+        font-size: 15px;
+    }
+    .user-name-role h6 {
+        font-size: 13px;
+    }
+    .dashboard-right-top-menu ul li a {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .nft-card-blurb {
+        padding: 10px 0px;
+    }
+    .side-menu {
+        padding-right: 15px;
+    }
+    .side-content {
+        padding-left: 30px;
+    }
+    .blurb-row .row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .blurb-outer {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .blurb-img{
+        height: 160px;
+    }
+    .hero-conent-right h1 {
+        font-size: 100px;
+        line-height: 120px;
+    }
+    .btn-style1 .text {
+        font-size: 26px;
+        line-height: 38px;
+        padding: 12px 15px;
+    }
+    .hero-content p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .btn-style1 {
+        max-width: 240px;
+    }
+    .hero-conent-right {
+        max-width: 560px;
+    }
+    .hero-content-description {
+        max-width: 375px;
+    }
+    .header-user {
+        padding-left: 3%;
+    }
+    .header-right-navigation .navbar-nav .nav-item a.nav-link {
+        padding: 10px 15px;
+    }
+    .blog-grid-item {
+        padding: 20px 20px;
+    }
+    .blog-by,
+    .blog-excerpt,
+    .blog-meta span {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .blog-title h3 {
+        font-size: 20px;
+    }
+    .btn-style2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .hero-banner {
+        padding: 100px 50px 60px 50px;
+    }
+    .footer-inner-column ul li a,
+    .footer-widget-title,
+    .footer-subscribe .label {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .footer-inner-column ul li .sub-menu li a,
+    .location .detail {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .footer-logo .logo-text {
+        font-size: 70px;
+        line-height: 85px;
+    }
+    .footer-inner-column > ul > li {
+        padding: 5px 0;
+    }
+    .footer-rt-column {
+        margin-top: 82px;
+    }
+    .playstore-btn span {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .playstore-btn img {
+        max-width: 40px;
+    }
+    .footer-socials li a img {
+        width: 40px;
+    }
+    .footer-contact-info .iconbox img {
+        width: 45px;
+    }
+    .footer-contact-info .telephone .iconbox img {
+        width: 35px;
+    }
+    .footer-contact-info .iconbox {
+        min-width: 55px;
+    }
+    .subscribe-input input.form-control {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .telephone .tel-no a {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .title-vertical-line .line {
+        height: 50px;
+        margin-top: 15px;
+    }
+    .section-title h2 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .owl-carousel .owl-nav button {
+        width: 50px;
+        height: 50px;
+    }
+    .owl-carousel .owl-nav button span {
+        width: 16px;
+        height: 16px;
+    }
+    .blog-grid-item .card-left {
+        margin-bottom: 30px;
+    }
+    .img-bx {
+        padding-bottom: 100%;
+    }
+    .btn-large {
+        font-size: 22px !important;
+        line-height: 32px !important;
+    }
+    .service-grid > .row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .service-grid .row .card-grid-item {
+        padding: 40px 15px;
+    }
+    .item-slide h1 {
+        font-size: 65px;
+        line-height: 80px;
+    }
+    .hero-slider .single-slider .item-slide {
+        min-height: 450px;
+    }
+    .owl-dots .owl-dot.active span {
+        width: 32px !important;
+        height: 32px !important;
+    }
+    .owl-dots .owl-dot span {
+        width: 22px !important;
+        height: 22px !important;
+    }
+    .big-title h2 {
+        font-size: 65px;
+        line-height: 100px;
+    }
+    .service-gridx2 .card-right .title {
+        margin-top: 30px;
+    }
+    .service-gridx2 .row .card-grid-item {
+        padding: 40px 40px;
+    }
+    .blog-topic-article ul li {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .blog-topic-article .blog-author,
+    .blog-topic-article .blog-excerpt,
+    .blog-link a {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .blog-heading {
+        font-size: 65px;
+        line-height: 75px;
+    }
+    .article-inner-box .number {
+        font-size: 54px;
+        line-height: 60px;
+        width: 70px;
+        height: 70px;
+    }
+    .article-inner-box {
+        padding: 15px 20px 15px 80px;
+        min-height: 130px;
+    }
+    .blog-full-content .blog-excerpt,
+    .blog-full-content .blog-by {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .blog-full-content .blog-title h3 {
+        font-size: 30px;
+    }
+    .blog-full-content .blog-time-category,
+    .blog-full-content .date,
+    .post-label {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .blog-full .btn-style2 {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 15px;
+        min-width: 240px;
+    }
+    .nav-tabs-style li button {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .type {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .product-title,
+    .page-title {
+        font-size: 60px;
+        line-height: 65px;
+    }
+    .product-excerpt {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .product-price-quantity .price {
+        font-size: 90px;
+        line-height: 90px;
+    }
+    .shop-main-slider .product-slider {
+        padding-top: 30px;
+    }
+    .nav-tabs-style li {
+        padding: 0px 15px;
+    }
+    .card-avtar {
+        width: 110px;
+        height: 110px;
+        padding: 6px;
+    }
+    .card-profile {
+        margin-top: -100px;
+    }
+    .shop-grid .row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .shop-grid-item {
+        padding: 25px 15px;
+    }
+    .title h1 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .content-big {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .heading-style h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .content-left-block h1 {
+        font-size: 30px;
+        line-height: 52px;
+    }
+    .content-left-block p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .circle-shadow-img {
+        padding: 30px;
+    }
+    .team-members .team-card:nth-child(odd) .member-picture {
+        padding-right: 15px;
+    }
+    .team-members .team-card:nth-child(even) .member-picture {
+        padding-left: 15px;
+    }
+    .profile-left .card-avtar {
+        width: 200px;
+        height: 200px;
+        padding: 15px;
+    }
+    .social-btn .text {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .social-btn-icon img {
+        height: 20px;
+    }
+}
+
+@media( max-width: 991px){
+    .header-search {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .header-right-navigation ul li a {
+        padding: 5px 10px;
+        font-size: 1.15rem;
+    }
+    .header-right-navigation ul li.wallet-btn a {
+        padding: 10px 15px;
+    }
+    .user-icon-btn a img {
+        width: 34px;
+    }
+    .header-right-navigation ul li:not(:last-child) {
+        padding-right: 5px;
+    }
+    .hamburger {
+        display: block;
+        float: right;
+        position: relative;
+        cursor: pointer;
+        z-index: 100;
+     }
+    .hamburger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+    .hamburger.active .bar:nth-child(1) {
+        -webkit-transform: translateY(8px) rotate(-315deg);
+        transform: translateY(8px) rotate(-315deg);
+    }
+    .hamburger.active .bar:nth-child(3) {
+        -webkit-transform: translateY(-10px) rotate(-45deg);
+        transform: translateY(-10px) rotate(-45deg);
+    }
+    .nav-menu {
+        width: 100%;
+        height: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        align-items: center;
+        position: fixed;
+        top: 0px;
+        right: -100%;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        margin: 0 auto;
+        max-width: 300px;
+        background: #f5f5f5;
+        padding: 75px 15px 15px 15px;
+    }
+    .nav-menu li {
+        padding: 1rem 0;
+    }
+    a.nav-link {
+        margin: 1rem 0;
+        color: #333;
+        z-index: 1;
+    }
+    .nav-menu.active {
+        right: 0;
+        z-index: 100;
+        transition: 0.2s ease;
+    } 
+    .hero-lt-content {
+        padding-top: 50px;
+        padding-bottom: 25px;
+    }
+    .hero-lt-content h1 {
+        line-height: 2rem;
+        font-size: 1.5rem;
+    }
+    .content-block{
+        font-size: 1.1rem;
+    }
+    .hero-lt-inner {
+        max-width: 320px;
+    }
+    .product-filter-block {
+        position: fixed;
+        width: 100%;
+        left: 0;
+        top: 100%;
+        background: #fff;
+        z-index: 100;
+        height: 100%;
+        padding: 20px 20px 20px 20px;
+        overflow: auto;
+    }
+    .product-filter-block.active{
+        top: 0;
+    }
+    .category-sub-menu ul li a {
+        padding: 10px 10px;
+        min-width: 60px;
+        font-size: 14px;
+    }
+    .product-filter-block > * {
+        max-width: 700px;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        display: block;
+    }
+    .category-sub-menu{
+        padding-right: 50px;
+    }
+    .profile-desc h4{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .owner-item-inner-details .items {
+        font-size: 16px;
+    }
+    .owner-item-inner-details .items span{
+        font-size: 12px;
+    }
+    .ctv-row ._artwork {
+        width: 40%;
+    }
+    .ctv-row ._from, .ctv-row ._to {
+        width: 30%;
+    }
+    .ctv-body .ctv-row {
+        border: 1px solid #e5e5e5;
+    }
+    .ctv-row ._qut,
+    .ctv-row ._type,
+    .ctv-row ._price,
+    .ctv-row ._date {
+        width: 25%;
+        background: #fafafa;
+        border-top: 1px solid #e5e5e5;
+    }
+    .ctv-row ._qut .ct-f-label,
+    .ctv-row ._type .ct-f-label,
+    .ctv-row ._price .ct-f-label,
+    .ctv-row ._date .ct-f-label{
+        font-size: 14px;
+        color: #8c8c8c;
+        font-family: 'NotoSans-Regular';
+    }
+    .ctv-head{
+        display: none;
+    }
+    #profile-pg-hero{
+        height: 250px;
+    }
+    .inner-page-heading h2 {
+        font-size: 1.5rem;
+    }
+    .category-title{
+        font-size: 16px;
+    }
+    .nft-card{
+        padding: 15px;
+    }
+    .nft-card-inner h4{
+        font-size: 18px;
+    }
+    #top-collection-seller #pills-tab li button {
+        font-size: 20px;
+    }
+    .product-result-block {
+        padding: 30px 15px 30px 15px;
+    }
+    .activity-top-inner-section {
+        padding: 35px 0px 50px 0px;
+    }
+    .activity-btm-inner-section {
+        padding: 50px 0px 50px 0px;
+    }
+    .cards-view {
+        padding-left: 0px;
+    }
+    .cards-view .row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .profile-img-preview {
+        height: 150px;
+    }
+    .image-uploader label {
+        padding: 7px 25px;
+    }
+    .back-icon img {
+        width: 18px;
+    }
+    .back-icon a span {
+        font-size: 18px;
+    }
+    .header-right-navigation .navbar-nav .nav-item a.nav-link {
+        margin: 0px;
+        font-size: 18px;
+    }
+    .blog-grid-item {
+        padding: 20px 20px;
+    }
+    .btn-style1 .text {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .blog-meta {
+        padding: 10px 10px 55px 10px;
+    }
+    .blog-item-bx {
+        padding-left: 55px;
+    }
+    .blog-content-body {
+        margin: -55px 55px 0px -55px;
+    }
+    .blog-style1 > .row {
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    .blog-item {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .footer-inner-column ul li a,
+    .footer-widget-title,
+    .footer-subscribe .label {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .playstore-btn span {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .playstore-btn img,
+    .footer-socials li a img {
+        width: 30px;
+    }
+    .footer-lt-column {
+        padding-right: 10px !important;
+    }
+    .footer-inner-column ul li .sub-menu li a,
+    .location .detail,
+    .mail-address {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .telephone .tel-no a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .btn-addtocart {
+        width: 52px;
+        height: 52px;
+    }
+    .btn-addtocart .cart-icon {
+        width: 22px !important;
+    }
+    .product-price {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .header-right-navigation .navbar-nav .nav-item a.nav-link {
+        padding: 10px 10px;
+    }
+    .hero-slider .single-slider .item-slide {
+        min-height: 400px;
+        padding: 45px 90px 100px 90px;
+    }
+    .item-slide h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .item-slide h1:after {
+        border-bottom-width: 3px;
+    }
+    .services {
+        max-width: 750px;
+        margin: auto;
+    }
+    .course-full .card-left {
+        margin-bottom: 30px;
+    }
+    .service-gridx2 .row .card-grid-item {
+        padding: 20px 20px;
+    }
+    .course-full .card-grid-item {
+        padding: 25px 0;
+    }
+    .service-grid .row .card-grid-item {
+        padding: 20px 15px;
+    }
+    .service-wrapper form.form-style1.search-form {
+        max-width: 750px;
+        margin: auto;
+    }
+    .blog-topic-article .blog-author,
+    .blog-topic-article .blog-excerpt,
+    .blog-link a {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .blog-topic-article .blog-author,
+    .blog-topic-article .blog-excerpt,
+    .blog-link a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .blog-hero {
+        background: #F8F3EF;
+        padding: 120px 0px 70px;
+    }
+    .hint-item {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 10px;
+        min-width: 110px;
+    }
+    .search-form button {
+        background-size: 20px;
+    }
+    .product-title,
+    .page-title {
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .type {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .product-excerpt {
+        font-size: 16px;
+    }
+    .product-item-content {
+        padding: 25px 50px 25px 10px;
+    }
+    .product-price-quantity .quantity {
+        margin-top: 15px;
+    }
+    .product-price-quantity .price {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .content-big {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .content-left-block h1 {
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .content-left-block p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .about-second-section {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .member-detail h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .member-detail .address {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .member-detail .content {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .team-card {
+        padding: 30px 0;
+    }
+    .title h1 {
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .owl-dots .owl-dot {
+        width: 40px;
+        height: 40px;
+    }
+    .owl-dots .owl-dot span {
+        width: 18px !important;
+        height: 18px !important;
+    }
+    .owl-dots .owl-dot.active span {
+        width: 25px !important;
+        height: 25px !important;
+    }
+    .slider-box .single-slider .item {
+        padding: 35px;
+    }
+    .content-details .title {
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+    .about-first-section {
+        padding: 100px 0 80px;
+    }
+    .profile-full-card .card-avtar {
+        margin-top: -180px;
+        width: 260px;
+        height: 260px;
+        padding: 15px;
+    }
+    .name h2 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .profile-details .address {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .back-btn {
+        width: 55px;
+        height: 55px;
+    }
+    button.back-btn:after {
+        width: 18px;
+        height: 18px;
+    }
+    .form-style1 .form-label,
+    .login-signup-form .form-label {
+        font-size: 18px;
+    }
+    .form-style1 input,
+    .form-style1 select,
+    .login-signup-form input,
+    .login-signup-form select {
+        padding: 15px 25px;
+    }
+}
+
+@media (max-width: 767px) {
+    .header-search{
+        display: none;
+    }
+    .header-search {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background: #ffff;
+        z-index: 101;
+    }
+    .header-search.active {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header-search form{
+        max-width: 540px;
+        width: 100%;
+        padding: 10px;
+    }
+    .search-toggler,
+    .search-close {
+        background: transparent;
+        padding: 5px;
+    }
+    .search-toggler img{
+        width: 24px;
+    }
+    .search-close img {
+        width: 20px;
+    }
+    .card-item {
+        width: 100%;
+    }
+    #trending-collection {
+        padding: 60px 30px 30px 30px;
+    }
+    .section-space {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .footer-inner-column {
+        padding-top: 50px;
+    }
+    #footer .footer-top {
+        padding: 50px 0 30px 0;
+    }
+    .copyright {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+    .privacy-policy-menu ul li a{
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .hero-lt-inner {
+        max-width: 400px;
+        margin: auto;
+    }
+    .hero-lt-content h1 {
+        line-height: 2.25rem;
+        font-size: 1.75rem;
+    }
+    .filter-result-block{
+        display: none;
+    }
+    .category-sub-menu .--list {
+        width: 100%;
+    }
+    .recently-listed {
+        width: 100%;
+        border-top: 1px solid #dbdbdb;
+        padding: 15px 0px;
+    }
+    .recently-listed select {
+        width: 48%;
+        background: #e6f5fb;
+        border: 1px solid #91D8F7;
+        padding: 10px 15px 9px 15px;
+        border-radius: 8px;
+    }
+    .category-sub-menu{
+        padding-right: 0px;
+        padding-top: 0px;
+        border-bottom: 0;
+    }
+    button.filter-btn {
+        margin-top: -57px;
+        width: 48%;
+    }
+    .pc-left{
+        flex-wrap: wrap;
+    }
+    .pc-left .profile-img {
+        margin-top: -30px;
+        margin-bottom: 10px;
+    }
+    .profile-avtar {
+        border: 2px solid #cf83ff;
+    }
+    .fb-google-btn button span {
+        width: 20px;
+        height: 20px;
+    }
+    .fb-google-btn button span img {
+        max-width: 14px;
+        max-height: 14px;
+    }
+    .fb-google-btn button {
+        padding: 10px 15px;
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .login-signup-popup .modal-dialog .modal-body {
+        max-width: 400px;
+    }
+    .dashboard-right-top-menu ul{
+        font-size: 0;
+        flex-wrap: wrap;
+    }
+    .dashboard-right-top-menu ul li {
+        padding: 5px;
+        width: 33.33%;
+    }
+    .dashboard-right-top-menu ul li a{
+        border:  1px solid #ccc;
+    }
+    .table-col-one {
+        width: 100%;
+        text-align: left;
+        padding: 5px;
+    }
+    .table-col-two, .table-col-three, .table-col-four, .table-col-five {
+        width: 50%;
+        padding: 5px;
+        text-align: left;
+    }
+    .user-table-img {
+        margin: 0;
+    }
+    .table-label {
+        color: #afafaf;
+        font-size: 12px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+    }
+    .five-col-body {
+        padding: 10px 10px;
+        border: 1px solid #ccc;
+        margin: 15px 0px;
+        border-radius: 5px;
+    }
+    .five-col-head{
+        display: none;
+    }
+    .inner-setting-section {
+        padding-left: 0px;
+    }
+    .page-titlebar{
+        padding: 5px 0px;
+    }
+    .user-profile-left-sidebar {
+        margin-top: -65px;
+    }
+    #inner-pg-hero2 .container {
+        min-height: 250px;
+        padding: 50px 15px 80px 15px;
+    }
+    .side-content {
+        padding-left: 11px;
+    }
+    .side-menu {
+        border-bottom: 1px solid #E7E7E7;
+        border-right: none;
+        margin-bottom: 45px;
+    }
+    .header-right-navigation .navbar-collapse {
+        position: fixed;
+        width: 100%;
+        max-width: 300px;
+        right: -300px;
+        top: 0;
+        height: 100vh !important;
+        transition: all ease-in-out 500ms;
+        -webkit-transition: all ease-in-out 500ms;
+        -moz-transition: all ease-in-out 500ms;
+        -ms-transition: all ease-in-out 500ms;
+        -o-transition: all ease-in-out 500ms;
+        padding-top: 63px;
+    }
+    .header-right-navigation .navbar-collapse ul.navbar-nav {
+        background: #ffeae6;
+        box-shadow: -8px -8px 15px rgb(0 0 0 / 5%);
+        height: 100%;
+        width: 100%;
+        overflow: auto;
+        padding: 25px 15px;
+    }
+    .header-right-navigation .navbar-collapse.show {
+        right: 0;
+    }
+    .header-right-navigation .navbar-toggler {
+        margin-left: auto;
+        position: relative;
+        z-index: 11;
+    }
+    .login-singup-btns .btn {
+        margin: 10px 10px;
+        max-width: 180px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .title-vertical-line .line {
+        width: 3px;
+        height: 40px;
+        margin-top: 15px;
+    }
+    .blog-by,
+    .blog-excerpt,
+    .blog-meta span {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .footer-rt-column {
+        margin-top: 0px;
+    }
+    #footer .footer-top {
+        padding: 0px 0 30px 0;
+    }
+    .prod-slider .card-left {
+        margin-bottom: 25px;
+    }
+    .prod-slider, .prod-slider2 {
+        padding: 0 15px;
+    }
+    .header-right-navigation .navbar-nav .nav-item a.nav-link {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .container-large {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .big-title h2 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .services {
+        max-width: 475px;
+    }
+    .blog-hero-content {
+        max-width: 350px;
+    }
+    .blog-pg .container,
+    .blog-style1,
+    .shop-area .shop-grid {
+        max-width: 550px;
+        margin: auto;
+    }
+    .blog-full-content .blog-excerpt, .blog-full-content .blog-by {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .product-title,
+    .page-title {
+        font-size: 36px;
+        line-height: 38px;
+    }
+    .product-item-img,
+    .product-item-content {
+        padding: 25px 55px 25px 55px;
+    }
+    .product-price-quantity {
+        padding: 20px 0;
+    }
+    .nav-tabs-style li {
+        padding: 0px 5px;
+    }
+    .nav-tabs-style li button {
+        font-size: 20px;
+        line-height: 24px;
+        padding: 5px;
+    }
+    .card-style1 .title h3, .card-blurb-content .title h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .btn-style2.btn-large {
+        min-width: 220px;
+    }
+    .product-content-description {
+        padding-right: 0px;
+    }
+    .testimonial-content {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .content-big {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .heading-style h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .circle-shadow-img {
+        max-width: 400px;
+        margin: auto;
+    }
+    .member-picture .memeber-img {
+        max-width: 250px;
+        margin: auto;
+    }
+    .member-detail {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .team-members .team-card:nth-child(even) .member-detail{
+        order: 2;
+        text-align: center;
+    }
+    .title h1 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .team-profile .container {
+        padding: 0px 30px;
+    }
+    .profile-full-card .card-avtar {
+        margin-top: -150px;
+        width: 200px;
+        height: 200px;
+        padding: 10px;
+    }
+    .name h2 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .profile-details .address {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .profile-left {
+        padding-right: 12px;
+        margin-bottom: 50px;
+    }
+    .hero-banner {
+        padding: 100px 20px 60px 20px;
+    }
+    .login-signup {
+        max-width: 420px;
+        padding: 25px; 
+    }
+    .login-info-action {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+    .forget-pass a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .or-seperator span {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 5px 20px;
+    }
+    .or-seperator:before {
+        height: 2px;
+    }
+}
+
+@media (max-width: 575px){
+    .ctv-row ._artwork {
+        width: 100%;
+    }
+    .ctv-row ._from, .ctv-row ._to {
+        width: 50%;
+    }
+    .ctv-row ._qut,
+    .ctv-row ._type,
+    .ctv-row ._price,
+    .ctv-row ._date {
+        width: 50%;
+    }
+    .blog-content-body {
+        margin: -55px 30px 0px -55px;
+    }
+    .product-price-quantity .price,
+    .product-price-quantity .quantity{
+        width: 100%;
+    }
+    .nav-tabs-style li button {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .circle-shadow-img {
+        padding: 20px;
+    }
+}
