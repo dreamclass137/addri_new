@@ -673,6 +673,28 @@
     .social-btn-icon img {
         height: 20px;
     }
+    .form-style1 input,
+    .form-style1 select,
+    .login-signup-form input,
+    .login-signup-form select {
+        padding: 16px 28px;
+        font-size: 16px;
+    }
+    .form-style1 .form-label, .login-signup-form .form-label,
+    .login-info-action {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .social-btn-inner{
+        height: 40px;
+    }
+    #water-while-slider img {
+      max-width: 700px;
+    }
+    #water-while-slider .water-while-slider-inner {
+        height: 850px;
+        margin: 0 0px;
+    }
 }
 
 @media( max-width: 991px){
@@ -1518,4 +1540,8 @@
     .circle-shadow-img {
         padding: 20px;
     }
+}
+.gallery-item img {
+    background: #fff;
+    padding: 15px;
 }
