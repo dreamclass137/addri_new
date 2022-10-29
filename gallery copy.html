@@ -93,17 +93,94 @@
 		<section class="bg-green pt-5">
 			<div class="container mt-5">
 				<div class="gallery-slider owl-carousel">
-					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div>
-					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div>
-					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div>
-					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div>
-					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div>
-					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div>
+					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div>					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div></div>
+					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div>					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div></div>
+					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div>					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div></div>
+					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div>					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div></div>
+					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div>					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div></div>
+					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div>					<div class="item"><div class="item-inner" style="background-image: url('images/gallery-img1.png');"></div></div></div>
 				</div>
+			</div>
+		</section>
+		<section class="bg-green pt-5">
+			<div class="container">
+				<div id="water-while-slider">
+					<div class="water-while-slider-inner">
+						<a id="item-1" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-2" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-3" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-4" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-5" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-6" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-7" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-8" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+						<a id="item-9" class="gallery-item">
+					      	<img src="images/gallery-img1.png" />
+						</a>
+			      	</div>
+			    </div>
+			    <a href="#" id="prev" class="prev-slide-btn">
+			    	Prev
+			    </a>
+			    <a href="#" id="next" class="next-slide-btn">
+			    	Next
+			    </a>
 			</div>
 		</section>
 	</main>
 
+	<script type="text/javascript">	
+		var carousel = $("#water-while-slider").waterwheelCarousel({
+          flankingItems: 2,
+          movingToCenter: function ($item) {
+            $('#callback-output').prepend('movingToCenter: ' + $item.attr('id') + '<br/>');
+          },
+          movedToCenter: function ($item) {
+            $('#callback-output').prepend('movedToCenter: ' + $item.attr('id') + '<br/>');
+          },
+          movingFromCenter: function ($item) {
+            $('#callback-output').prepend('movingFromCenter: ' + $item.attr('id') + '<br/>');
+          },
+          movedFromCenter: function ($item) {
+            $('#callback-output').prepend('movedFromCenter: ' + $item.attr('id') + '<br/>');
+          },
+          clickedCenter: function ($item) {
+            $('#callback-output').prepend('clickedCenter: ' + $item.attr('id') + '<br/>');
+          }
+        });
+
+        $('#prev').bind('click', function () {
+          carousel.prev();
+          return false
+        });
+
+        $('#next').bind('click', function () {
+          carousel.next();
+          return false;
+        });
+
+        $('#reload').bind('click', function () {
+          newOptions = eval("(" + $('#newoptions').val() + ")");
+          carousel.reload(newOptions);
+          return false;
+        });
+	</script>
 	<footer id="footer">
 		<div class="container container-large">
 			<div class="row footer-top">

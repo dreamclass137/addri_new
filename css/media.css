@@ -222,6 +222,14 @@
 }
 
 @media (max-width: 1366px){
+    #water-while-slider .water-while-slider-inner {
+        height: 400px;
+    }
+    #water-while-slider {
+        padding: 0px 50px;
+        max-width: 750px;
+        margin: auto;
+    }
     .blog-grid-item {
         padding: 30px 30px;
     }
@@ -1544,4 +1552,5 @@
 .gallery-item img {
     background: #fff;
     padding: 15px;
+    max-width: 100%;
 }

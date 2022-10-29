@@ -67,6 +67,39 @@ $(document).ready(function(){
         }
     });
 
+    $('.gallery-slider').on('initialized.owl.carousel translate.owl.carousel', function(e){
+        idx = e.item.index;
+        $('.owl-item.large').removeClass('large');
+        $('.owl-item.medium').removeClass('medium');
+        $('.owl-item.medium').removeClass('small');
+        $('.owl-item').eq(idx).addClass('large');
+        $('.owl-item').eq(idx-1).addClass('medium');
+        $('.owl-item').eq(idx-2).addClass('small');
+        $('.owl-item').eq(idx+1).addClass('medium');
+        $('.owl-item').eq(idx+2).addClass('small');
+    });
+    $('.gallery-slider').owlCarousel({
+        loop:true,
+        dots: false,
+        center: true,
+        nav: true,
+        responsive:{
+            0:{
+                items:1,
+                margin:0,
+            },
+            768:{
+                items:2,
+            },
+            992:{
+                items:3,
+            },
+            1200:{
+                items:5,
+                nav:true,
+            }
+        }
+    });
 
     var sync1 = $("#sync1");
     var sync2 = $("#sync2");
